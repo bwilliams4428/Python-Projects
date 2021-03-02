@@ -7,9 +7,9 @@ A user can plot points that are inputted into the provided coordinates.csv file 
 
 If a user selects option 1, then the coordinates inputted into the coordinates.csv file will display on the web based map.
 
-[Image1](https://github.com/bwilliams4428/Python-Projects/blob/main/A%20Simple%20Coordinates%20Plotter/ThePlotter/option1.PNG)
+![Image1](https://github.com/bwilliams4428/Python-Projects/blob/main/A%20Simple%20Coordinates%20Plotter/ThePlotter/option1.PNG)
 
-[Output](https://github.com/bwilliams4428/Python-Projects/blob/main/A%20Simple%20Coordinates%20Plotter/ThePlotter/Capture1.PNG)
+![Output](https://github.com/bwilliams4428/Python-Projects/blob/main/A%20Simple%20Coordinates%20Plotter/ThePlotter/Capture1.PNG)
 
 
 If a user select option 2, then the user will be prompted to input the file path to a .csv file on the user's computers to have those coordinates displayed on a web based map.
