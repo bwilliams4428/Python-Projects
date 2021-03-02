@@ -19,8 +19,9 @@ If a user select option 2, then the user will be prompted to input the file path
 ![Output](https://github.com/bwilliams4428/Python-Projects/blob/main/A%20Simple%20Coordinates%20Plotter/ThePlotter/Capture1.PNG)
 
 
-This application was tested using Python 3. 
-
+This application was tested using Python 3:
+    
+    python3 Plotter.py
 
 Required Python libraries
 
