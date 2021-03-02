@@ -7,3 +7,5 @@ When executed, this script prompts a user to select one of the network device in
 This script only works on UNIX/Linux systems.
 
 This script was tested using Python3.
+
+    python3 Mac_Address_Changer.py
