@@ -51,6 +51,6 @@ while user_interface_choice != 'X':
 
         else:
             print("Current Mac address for {} interface: {}".format(interface_list[user_nic],get_current_mac(interface_list[user_nic])))
-            user_custom_mac = input("Input your custom MAC address for the selected interface:")
+            user_custom_mac = input("Input your custom MAC address for the selected interface(Note: First octet must be an even value):")
             change_mac(interface_list[user_nic],user_custom_mac)
             display_interfance_menu(interface_list)
