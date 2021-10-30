@@ -15,7 +15,11 @@ This application does use APIs for Security Trails and AbuseIPDB. Please create 
 
 After those libraries have been installed, execute the main.py file to use the application:
 ```
+Unix:
 python3 main.py
+
+Windows:
+python main.py
 ```
 
 ![](https://github.com/bwilliams4428/Python-Projects/blob/main/OSINT%20APP/gifs/Option%201.gif)
